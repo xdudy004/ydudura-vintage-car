@@ -26,17 +26,19 @@ h1, h3 {
 
 /* Section Enquiries */
 #enquiries.container {
-    margin-top: 3rem;
     background-color: rgb(152, 207, 207);
 }
 
-/* Section Contact */
-#contact.container {
-margin-top: 3rem;
-margin-bottom: 2rem;
-}
 
 /* Section Footer */
 footer p {
     text-align: center;
+}
+
+/* Margin-top for all sections */
+.cars, 
+.enquiries, 
+.contact,
+footer {
+    margin-top: 2rem;
 }
