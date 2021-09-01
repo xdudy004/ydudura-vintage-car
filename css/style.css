@@ -1,0 +1,42 @@
+/* Brand name */
+.navbar-brand {
+    margin-left: 3rem;
+    font-family: Book Antiqua;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 3rem;
+    text-shadow: 5px 5px #530b0b;   
+}
+
+/* Navbar style */
+#navbarNav {
+    margin-right: 3rem;
+}
+
+h1, h3 {
+    font-family: Book Antiqua;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(5, 150, 150); 
+}
+/* Card Section */
+#cars.container h1 {
+    text-align: center;
+}
+
+/* Section Enquiries */
+#enquiries.container {
+    margin-top: 3rem;
+    background-color: rgb(152, 207, 207);
+}
+
+/* Section Contact */
+#contact.container {
+margin-top: 3rem;
+margin-bottom: 2rem;
+}
+
+/* Section Footer */
+footer p {
+    text-align: center;
+}
